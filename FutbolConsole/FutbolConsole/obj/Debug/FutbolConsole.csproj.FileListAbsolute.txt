@@ -1,0 +1,7 @@
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\bin\Debug\FutbolConsole.exe.config
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\bin\Debug\FutbolConsole.exe
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\bin\Debug\FutbolConsole.pdb
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\obj\Debug\FutbolConsole.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\obj\Debug\FutbolConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\obj\Debug\FutbolConsole.exe
+C:\Users\Ali Ozan\source\repos\FutbolConsole\FutbolConsole\obj\Debug\FutbolConsole.pdb
